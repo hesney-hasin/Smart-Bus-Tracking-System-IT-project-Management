@@ -1,22 +1,21 @@
-# Smart-Bus-Tracking-System-IT-project-Management
 
-# Smart Bus Tracking, Speed Monitoring & Digital Ticketing System 🚍
+# Smart Bus Tracking, Speed Monitoring & Digital Ticketing System 
 
 A smart transportation solution for Bangladesh that provides:
 
-- 📍 Real-time bus tracking using GPS
-- ⚡ Bus speed monitoring
-- 🎫 Digital ticket booking
-- 💳 Online payment integration (bKash & Nagad)
-- 📊 Admin dashboard for transport management
+-  Real-time bus tracking using GPS
+-  Bus speed monitoring
+-  Digital ticket booking
+-  Online payment integration (bKash & Nagad)
+-  Admin dashboard for transport management
 
-## 🎯 Objectives
+## Objectives
 - Reduce passenger waiting time
 - Improve road safety
 - Enable digital payments in public transport
 - Increase transport efficiency through real-time monitoring
 
-## 🛠️ Features
+## Features
 - Live bus location tracking
 - ETA prediction
 - Over-speed detection
@@ -24,7 +23,7 @@ A smart transportation solution for Bangladesh that provides:
 - Secure payment gateway
 - Driver & fleet monitoring
 
-## 📊 SWOT Analysis
+##  SWOT Analysis
 
 ### Strengths
 - Real-time GPS tracking
@@ -46,7 +45,7 @@ A smart transportation solution for Bangladesh that provides:
 - Cybersecurity risks
 - Resistance from traditional operators
 
-## 👨‍💻 Team Members
+## Team Members
 - Sadman Tayef
 - Md. Shahmul Islam
 - Hasnay Hasin
@@ -54,5 +53,5 @@ A smart transportation solution for Bangladesh that provides:
 - Farha Anjum Afifa
 
 
-## 📌 Project Type
+##  Project Type
 Academic Project — Department of Computer Science & Engineering, East West University
