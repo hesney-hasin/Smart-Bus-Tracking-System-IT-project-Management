@@ -54,4 +54,4 @@ A smart transportation solution for Bangladesh that provides:
 
 
 ##  Project Type
-Academic Project — Department of Computer Science & Engineering, East West University
+Academic Project - Department of Computer Science & Engineering, East West University
